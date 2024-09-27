@@ -1,4 +1,4 @@
-💻# IVR CALL METRICS MODEL ENHANCEMENT
+💻# </b>IVR CALL METRICS MODEL ENHANCEMENT</b>
 
 In this project, <b>I worked with 21,674 unique IVR call records and 293,349 related steps and modules 
 in BigQuery</b> to optimize and enhance the data model. Using advanced SQL techniques, I integrated multiple datasets, 
